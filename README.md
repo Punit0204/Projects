@@ -2,8 +2,8 @@
  -By PunitPrajapati
 
  #1. Spotify clone
-    - just Desgined
+    - HTML and CSS
 
-Any good Changes in this repo is appreciated. 
+Any good Changes in this repo are appreciated. 
 
  
